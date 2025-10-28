@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "mattmacf:debug-arm-viz",
   "visibility": "public",
-  "url": "",
+  "url": "https://github.com/mattmacf98/debug-arm-viz",
   "description": "Modular generic service: debug-arm-viz",
   "models": [
     {
